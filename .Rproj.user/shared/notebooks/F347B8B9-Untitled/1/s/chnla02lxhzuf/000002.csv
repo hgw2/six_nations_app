@@ -1,0 +1,12 @@
+"0","trophies_long %>% "
+"0","  filter(country == ""Wales"") %>% "
+"0","  group_by(trophy) %>% "
+"0","  summarise(wins = n()) %>% "
+"0","  ggplot()+"
+"0","  aes(x = reorder(trophy, -wins),y = wins, fill = trophy, ) +"
+"0","    geom_col(show.legend = FALSE)+"
+"0","  geom_text(aes(label= wins ), vjust=-0.3)+"
+"0","  theme_minimal()"
+"2","Error in trophies_long %>% filter(country == ""Wales"") %>% group_by(trophy) %>%  : 
+  could not find function ""%>%""
+"

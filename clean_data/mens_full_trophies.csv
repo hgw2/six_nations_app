@@ -1,0 +1,612 @@
+year,tournament_name,nation,trophy
+1883,Home Nations,England,Champions
+1883,Home Nations,England,Triple Crown
+1883,Home Nations,England,Calcutta Cup
+1884,Home Nations,England,Champions
+1884,Home Nations,England,Triple Crown
+1884,Home Nations,England,Calcutta Cup
+1884,Home Nations,Ireland,Wooden Spoon
+1885,Home Nations,Not Completed,Champions
+1885,Home Nations,Not Completed,Triple Crown
+1885,Home Nations,Not Completed,Calcutta Cup
+1886,Home Nations,Scotland,Champions
+1886,Home Nations,England,Champions
+1887,Home Nations,Scotland,Champions
+1887,Home Nations,England,Wooden Spoon
+1888,Home Nations,Ireland,Champions
+1888,Home Nations,Scotland,Champions
+1888,Home Nations,Wales,Champions
+1889,Home Nations,Scotland,Champions
+1889,Home Nations,Wales,Wooden Spoon
+1890,Home Nations,England,Champions
+1890,Home Nations,England,Calcutta Cup
+1890,Home Nations,Scotland,Champions
+1890,Home Nations,Ireland,Wooden Spoon
+1891,Home Nations,Scotland,Champions
+1891,Home Nations,Scotland,Triple Crown
+1891,Home Nations,Scotland,Calcutta Cup
+1891,Home Nations,Ireland,Wooden Spoon
+1892,Home Nations,England,Champions
+1892,Home Nations,England,Triple Crown
+1892,Home Nations,England,Calcutta Cup
+1892,Home Nations,Wales,Wooden Spoon
+1893,Home Nations,Wales,Champions
+1893,Home Nations,Wales,Triple Crown
+1893,Home Nations,Scotland,Calcutta Cup
+1893,Home Nations,Ireland,Wooden Spoon
+1894,Home Nations,Ireland,Champions
+1894,Home Nations,Ireland,Triple Crown
+1894,Home Nations,Scotland,Calcutta Cup
+1894,Home Nations,Wales,Wooden Spoon
+1895,Home Nations,Scotland,Champions
+1895,Home Nations,Scotland,Triple Crown
+1895,Home Nations,Scotland,Calcutta Cup
+1895,Home Nations,Ireland,Wooden Spoon
+1896,Home Nations,Ireland,Champions
+1896,Home Nations,Scotland,Calcutta Cup
+1896,Home Nations,Wales,Wooden Spoon
+1897,Home Nations,England,Calcutta Cup
+1897,Home Nations,Not Completed,Champions
+1897,Home Nations,Not Completed,Triple Crown
+1898,Home Nations,Not Completed,Champions
+1898,Home Nations,Not Completed,Triple Crown
+1898,Home Nations,Not Completed,Calcutta Cup
+1899,Home Nations,Ireland,Champions
+1899,Home Nations,Ireland,Triple Crown
+1899,Home Nations,Scotland,Calcutta Cup
+1899,Home Nations,England,Wooden Spoon
+1900,Home Nations,Wales,Champions
+1900,Home Nations,Wales,Triple Crown
+1900,Home Nations,Ireland,Wooden Spoon
+1901,Home Nations,Scotland,Champions
+1901,Home Nations,Scotland,Triple Crown
+1901,Home Nations,Scotland,Calcutta Cup
+1901,Home Nations,England,Wooden Spoon
+1902,Home Nations,Wales,Champions
+1902,Home Nations,Wales,Triple Crown
+1902,Home Nations,England,Calcutta Cup
+1902,Home Nations,Scotland,Wooden Spoon
+1903,Home Nations,Scotland,Champions
+1903,Home Nations,Scotland,Triple Crown
+1903,Home Nations,Scotland,Calcutta Cup
+1903,Home Nations,England,Wooden Spoon
+1904,Home Nations,Scotland,Champions
+1904,Home Nations,Scotland,Calcutta Cup
+1904,Home Nations,Ireland,Wooden Spoon
+1905,Home Nations,Wales,Champions
+1905,Home Nations,Wales,Triple Crown
+1905,Home Nations,Scotland,Calcutta Cup
+1905,Home Nations,England,Wooden Spoon
+1906,Home Nations,Ireland,Champions
+1906,Home Nations,Wales,Champions
+1906,Home Nations,England,Calcutta Cup
+1906,Home Nations,England,Wooden Spoon
+1907,Home Nations,Scotland,Champions
+1907,Home Nations,Scotland,Triple Crown
+1907,Home Nations,Scotland,Calcutta Cup
+1907,Home Nations,England,Wooden Spoon
+1908,Home Nations,Wales,Champions
+1908,Home Nations,Wales,Grandslam
+1908,Home Nations,Wales,Triple Crown
+1908,Home Nations,Scotland,Calcutta Cup
+1908,Home Nations,Ireland,Wooden Spoon
+1909,Home Nations,Wales,Champions
+1909,Home Nations,Wales,Grandslam
+1909,Home Nations,Wales,Triple Crown
+1909,Home Nations,Scotland,Calcutta Cup
+1909,Home Nations,Ireland,Wooden Spoon
+1910,Five Nations,England,Champions
+1910,Five Nations,England,Calcutta Cup
+1910,Five Nations,France,Wooden Spoon
+1911,Five Nations,Wales,Champions
+1911,Five Nations,Wales,Grandslam
+1911,Five Nations,Wales,Triple Crown
+1911,Five Nations,England,Calcutta Cup
+1911,Five Nations,Scotland,Wooden Spoon
+1912,Five Nations,England,Champions
+1912,Five Nations,Ireland,Champions
+1912,Five Nations,Scotland,Calcutta Cup
+1912,Five Nations,France,Wooden Spoon
+1913,Five Nations,England,Champions
+1913,Five Nations,England,Grandslam
+1913,Five Nations,England,Triple Crown
+1913,Five Nations,England,Calcutta Cup
+1913,Five Nations,France,Wooden Spoon
+1914,Five Nations,England,Champions
+1914,Five Nations,England,Grandslam
+1914,Five Nations,England,Triple Crown
+1914,Five Nations,England,Calcutta Cup
+1915,Five Nations,World War I,Champions
+1915,Five Nations,World War I,Triple Crown
+1915,Five Nations,World War I,Calcutta Cup
+1916,Five Nations,World War I,Champions
+1916,Five Nations,World War I,Triple Crown
+1916,Five Nations,World War I,Calcutta Cup
+1917,Five Nations,World War I,Champions
+1917,Five Nations,World War I,Triple Crown
+1917,Five Nations,World War I,Calcutta Cup
+1918,Five Nations,World War I,Champions
+1918,Five Nations,World War I,Triple Crown
+1918,Five Nations,World War I,Calcutta Cup
+1919,Five Nations,World War I,Champions
+1919,Five Nations,World War I,Triple Crown
+1919,Five Nations,World War I,Calcutta Cup
+1920,Five Nations,Wales,Champions
+1920,Five Nations,Scotland,Champions
+1920,Five Nations,England,Champions
+1920,Five Nations,England,Calcutta Cup
+1920,Five Nations,Ireland,Wooden Spoon
+1921,Five Nations,England,Champions
+1921,Five Nations,England,Grandslam
+1921,Five Nations,England,Triple Crown
+1921,Five Nations,England,Calcutta Cup
+1921,Five Nations,Ireland,Wooden Spoon
+1922,Five Nations,Wales,Champions
+1922,Five Nations,England,Calcutta Cup
+1922,Five Nations,France,Wooden Spoon
+1923,Five Nations,England,Champions
+1923,Five Nations,England,Grandslam
+1923,Five Nations,England,Triple Crown
+1923,Five Nations,England,Calcutta Cup
+1924,Five Nations,England,Champions
+1924,Five Nations,England,Grandslam
+1924,Five Nations,England,Triple Crown
+1924,Five Nations,England,Calcutta Cup
+1924,Five Nations,Ireland,Wooden Spoon
+1924,Five Nations,Wales,Wooden Spoon
+1925,Five Nations,Scotland,Champions
+1925,Five Nations,Scotland,Grandslam
+1925,Five Nations,Scotland,Triple Crown
+1925,Five Nations,Scotland,Calcutta Cup
+1925,Five Nations,France,Wooden Spoon
+1926,Five Nations,Scotland,Champions
+1926,Five Nations,Scotland,Calcutta Cup
+1926,Five Nations,Ireland,Champions
+1926,Five Nations,France,Wooden Spoon
+1927,Five Nations,Scotland,Champions
+1927,Five Nations,Scotland,Calcutta Cup
+1927,Five Nations,Ireland,Champions
+1927,Five Nations,France,Wooden Spoon
+1928,Five Nations,England,Champions
+1928,Five Nations,England,Grandslam
+1928,Five Nations,England,Triple Crown
+1928,Five Nations,England,Calcutta Cup
+1928,Five Nations,France,Wooden Spoon
+1929,Five Nations,Scotland,Champions
+1929,Five Nations,Scotland,Calcutta Cup
+1929,Five Nations,France,Wooden Spoon
+1930,Five Nations,England,Champions
+1930,Five Nations,Scotland,Wooden Spoon
+1931,Five Nations,Wales,Champions
+1931,Five Nations,Scotland,Calcutta Cup
+1931,Five Nations,England,Wooden Spoon
+1932,Home Nations,Ireland,Champions
+1932,Home Nations,Wales,Champions
+1932,Home Nations,England,Champions
+1932,Home Nations,England,Calcutta Cup
+1932,Home Nations,Scotland,Wooden Spoon
+1933,Home Nations,Scotland,Champions
+1933,Home Nations,Scotland,Triple Crown
+1933,Home Nations,Scotland,Calcutta Cup
+1933,Home Nations,Wales,Wooden Spoon
+1934,Home Nations,England,Champions
+1934,Home Nations,England,Triple Crown
+1934,Home Nations,England,Calcutta Cup
+1934,Home Nations,Ireland,Wooden Spoon
+1935,Home Nations,Ireland,Champions
+1935,Home Nations,Scotland,Calcutta Cup
+1935,Home Nations,Scotland,Wooden Spoon
+1936,Home Nations,Wales,Champions
+1936,Home Nations,England,Calcutta Cup
+1936,Home Nations,Scotland,Wooden Spoon
+1937,Home Nations,England,Champions
+1937,Home Nations,England,Triple Crown
+1937,Home Nations,England,Calcutta Cup
+1937,Home Nations,Wales,Wooden Spoon
+1938,Home Nations,Scotland,Champions
+1938,Home Nations,Scotland,Triple Crown
+1938,Home Nations,Scotland,Calcutta Cup
+1938,Home Nations,Ireland,Wooden Spoon
+1939,Home Nations,Wales,Champions
+1939,Home Nations,Ireland,Champions
+1939,Home Nations,England,Champions
+1939,Home Nations,England,Calcutta Cup
+1939,Home Nations,Scotland,Wooden Spoon
+1940,Five Nations,World War II,Champions
+1940,Five Nations,World War II,Triple Crown
+1940,Five Nations,World War II,Calcutta Cup
+1941,Five Nations,World War II,Champions
+1941,Five Nations,World War II,Triple Crown
+1941,Five Nations,World War II,Calcutta Cup
+1942,Five Nations,World War II,Champions
+1942,Five Nations,World War II,Triple Crown
+1942,Five Nations,World War II,Calcutta Cup
+1943,Five Nations,World War II,Champions
+1943,Five Nations,World War II,Triple Crown
+1943,Five Nations,World War II,Calcutta Cup
+1944,Five Nations,World War II,Champions
+1944,Five Nations,World War II,Triple Crown
+1944,Five Nations,World War II,Calcutta Cup
+1945,Five Nations,World War II,Champions
+1945,Five Nations,World War II,Triple Crown
+1945,Five Nations,World War II,Calcutta Cup
+1946,Five Nations,World War II,Champions
+1946,Five Nations,World War II,Triple Crown
+1946,Five Nations,World War II,Calcutta Cup
+1947,Five Nations,Wales,Champions
+1947,Five Nations,England,Champions
+1947,Five Nations,England,Calcutta Cup
+1947,Five Nations,Scotland,Wooden Spoon
+1948,Five Nations,Ireland,Champions
+1948,Five Nations,Ireland,Grandslam
+1948,Five Nations,Ireland,Triple Crown
+1948,Five Nations,Scotland,Calcutta Cup
+1948,Five Nations,England,Wooden Spoon
+1949,Five Nations,Ireland,Champions
+1949,Five Nations,Ireland,Triple Crown
+1949,Five Nations,England,Calcutta Cup
+1949,Five Nations,Wales,Wooden Spoon
+1950,Five Nations,Wales,Champions
+1950,Five Nations,Wales,Grandslam
+1950,Five Nations,Wales,Triple Crown
+1950,Five Nations,Scotland,Calcutta Cup
+1950,Five Nations,England,Wooden Spoon
+1951,Five Nations,Ireland,Champions
+1951,Five Nations,England,Calcutta Cup
+1951,Five Nations,England,Wooden Spoon
+1952,Five Nations,Wales,Champions
+1952,Five Nations,Wales,Grandslam
+1952,Five Nations,Wales,Triple Crown
+1952,Five Nations,England,Calcutta Cup
+1952,Five Nations,Scotland,Wooden Spoon
+1953,Five Nations,England,Champions
+1953,Five Nations,England,Calcutta Cup
+1953,Five Nations,Scotland,Wooden Spoon
+1954,Five Nations,Wales,Champions
+1954,Five Nations,England,Champions
+1954,Five Nations,England,Triple Crown
+1954,Five Nations,England,Calcutta Cup
+1954,Five Nations,France,Champions
+1954,Five Nations,Scotland,Wooden Spoon
+1955,Five Nations,Wales,Champions
+1955,Five Nations,France,Champions
+1955,Five Nations,England,Calcutta Cup
+1955,Five Nations,Ireland,Wooden Spoon
+1956,Five Nations,Wales,Champions
+1956,Five Nations,England,Calcutta Cup
+1956,Five Nations,Scotland,Wooden Spoon
+1957,Five Nations,England,Champions
+1957,Five Nations,England,Grandslam
+1957,Five Nations,England,Triple Crown
+1957,Five Nations,England,Calcutta Cup
+1957,Five Nations,France,Wooden Spoon
+1958,Five Nations,England,Champions
+1958,Five Nations,Ireland,Wooden Spoon
+1959,Five Nations,France,Champions
+1959,Five Nations,Scotland,Wooden Spoon
+1960,Five Nations,France,Champions
+1960,Five Nations,England,Champions
+1960,Five Nations,England,Triple Crown
+1960,Five Nations,England,Calcutta Cup
+1960,Five Nations,Ireland,Wooden Spoon
+1961,Five Nations,France,Champions
+1961,Five Nations,England,Calcutta Cup
+1961,Five Nations,Ireland,Wooden Spoon
+1962,Five Nations,France,Champions
+1962,Five Nations,Ireland,Wooden Spoon
+1963,Five Nations,England,Champions
+1963,Five Nations,England,Calcutta Cup
+1963,Five Nations,Wales,Wooden Spoon
+1964,Five Nations,Wales,Champions
+1964,Five Nations,Scotland,Champions
+1964,Five Nations,Scotland,Calcutta Cup
+1964,Five Nations,Ireland,Wooden Spoon
+1965,Five Nations,Wales,Champions
+1965,Five Nations,Wales,Triple Crown
+1965,Five Nations,Scotland,Wooden Spoon
+1966,Five Nations,Wales,Champions
+1966,Five Nations,Scotland,Calcutta Cup
+1966,Five Nations,England,Wooden Spoon
+1967,Five Nations,France,Champions
+1967,Five Nations,England,Calcutta Cup
+1967,Five Nations,Wales,Wooden Spoon
+1968,Five Nations,France,Champions
+1968,Five Nations,France,Grandslam
+1968,Five Nations,England,Calcutta Cup
+1968,Five Nations,Scotland,Wooden Spoon
+1969,Five Nations,Wales,Champions
+1969,Five Nations,Wales,Triple Crown
+1969,Five Nations,England,Calcutta Cup
+1969,Five Nations,France,Wooden Spoon
+1970,Five Nations,France,Champions
+1970,Five Nations,Wales,Champions
+1970,Five Nations,Scotland,Calcutta Cup
+1970,Five Nations,England,Wooden Spoon
+1971,Five Nations,Wales,Champions
+1971,Five Nations,Wales,Grandslam
+1971,Five Nations,Wales,Triple Crown
+1971,Five Nations,Scotland,Calcutta Cup
+1971,Five Nations,Scotland,Wooden Spoon
+1972,Five Nations,Not Completed,Champions
+1972,Five Nations,Not Completed,Triple Crown
+1972,Five Nations,Scotland,Calcutta Cup
+1972,Five Nations,England,Wooden Spoon
+1973,Five Nations,Wales,Champions
+1973,Five Nations,Ireland,Champions
+1973,Five Nations,France,Champions
+1973,Five Nations,Scotland,Champions
+1973,Five Nations,England,Champions
+1973,Five Nations,England,Calcutta Cup
+1974,Five Nations,Ireland,Champions
+1974,Five Nations,Scotland,Calcutta Cup
+1974,Five Nations,England,Wooden Spoon
+1975,Five Nations,Wales,Champions
+1975,Five Nations,England,Calcutta Cup
+1975,Five Nations,England,Wooden Spoon
+1976,Five Nations,Wales,Champions
+1976,Five Nations,Wales,Grandslam
+1976,Five Nations,Wales,Triple Crown
+1976,Five Nations,Scotland,Calcutta Cup
+1976,Five Nations,England,Wooden Spoon
+1977,Five Nations,France,Champions
+1977,Five Nations,France,Grandslam
+1977,Five Nations,Wales,Triple Crown
+1977,Five Nations,Scotland,Calcutta Cup
+1977,Five Nations,Ireland,Wooden Spoon
+1978,Five Nations,Wales,Champions
+1978,Five Nations,Wales,Grandslam
+1978,Five Nations,Wales,Triple Crown
+1978,Five Nations,England,Calcutta Cup
+1978,Five Nations,Scotland,Wooden Spoon
+1979,Five Nations,Wales,Champions
+1979,Five Nations,Wales,Triple Crown
+1979,Five Nations,Scotland,Wooden Spoon
+1980,Five Nations,England,Champions
+1980,Five Nations,England,Grandslam
+1980,Five Nations,England,Triple Crown
+1980,Five Nations,England,Calcutta Cup
+1980,Five Nations,Scotland,Wooden Spoon
+1981,Five Nations,France,Champions
+1981,Five Nations,France,Grandslam
+1981,Five Nations,England,Calcutta Cup
+1981,Five Nations,Ireland,Wooden Spoon
+1982,Five Nations,Ireland,Champions
+1982,Five Nations,Ireland,Triple Crown
+1982,Five Nations,Wales,Wooden Spoon
+1983,Five Nations,France,Champions
+1983,Five Nations,Ireland,Champions
+1983,Five Nations,Scotland,Calcutta Cup
+1983,Five Nations,England,Wooden Spoon
+1984,Five Nations,Scotland,Champions
+1984,Five Nations,Scotland,Grandslam
+1984,Five Nations,Scotland,Triple Crown
+1984,Five Nations,Scotland,Calcutta Cup
+1984,Five Nations,Ireland,Wooden Spoon
+1985,Five Nations,Ireland,Champions
+1985,Five Nations,Ireland,Triple Crown
+1985,Five Nations,England,Calcutta Cup
+1985,Five Nations,Scotland,Wooden Spoon
+1986,Five Nations,France,Champions
+1986,Five Nations,Scotland,Champions
+1986,Five Nations,Scotland,Calcutta Cup
+1986,Five Nations,Ireland,Wooden Spoon
+1987,Five Nations,France,Champions
+1987,Five Nations,France,Grandslam
+1987,Five Nations,England,Calcutta Cup
+1987,Five Nations,England,Wooden Spoon
+1988,Five Nations,Wales,Champions
+1988,Five Nations,Wales,Triple Crown
+1988,Five Nations,France,Champions
+1988,Five Nations,England,Calcutta Cup
+1988,Five Nations,Ireland,Wooden Spoon
+1989,Five Nations,France,Champions
+1989,Five Nations,England,Millennium Trophy
+1989,Five Nations,Scotland,Centenary Quaich
+1989,Five Nations,Wales,Wooden Spoon
+1990,Five Nations,Scotland,Champions
+1990,Five Nations,Scotland,Grandslam
+1990,Five Nations,Scotland,Triple Crown
+1990,Five Nations,Scotland,Calcutta Cup
+1990,Five Nations,Scotland,Centenary Quaich
+1990,Five Nations,England,Millennium Trophy
+1990,Five Nations,Wales,Wooden Spoon
+1991,Five Nations,England,Champions
+1991,Five Nations,England,Grandslam
+1991,Five Nations,England,Triple Crown
+1991,Five Nations,England,Calcutta Cup
+1991,Five Nations,England,Millennium Trophy
+1991,Five Nations,Scotland,Centenary Quaich
+1991,Five Nations,Wales,Wooden Spoon
+1992,Five Nations,England,Champions
+1992,Five Nations,England,Grandslam
+1992,Five Nations,England,Triple Crown
+1992,Five Nations,England,Calcutta Cup
+1992,Five Nations,England,Millennium Trophy
+1992,Five Nations,Scotland,Centenary Quaich
+1992,Five Nations,Ireland,Wooden Spoon
+1993,Five Nations,France,Champions
+1993,Five Nations,Scotland,Centenary Quaich
+1993,Five Nations,England,Calcutta Cup
+1993,Five Nations,Ireland,Millennium Trophy
+1993,Five Nations,Wales,Wooden Spoon
+1994,Five Nations,Wales,Champions
+1994,Five Nations,England,Calcutta Cup
+1994,Five Nations,Ireland,Millennium Trophy
+1994,Five Nations,Scotland,Wooden Spoon
+1995,Five Nations,England,Champions
+1995,Five Nations,England,Grandslam
+1995,Five Nations,England,Triple Crown
+1995,Five Nations,England,Calcutta Cup
+1995,Five Nations,England,Millennium Trophy
+1995,Five Nations,Scotland,Centenary Quaich
+1995,Five Nations,Wales,Wooden Spoon
+1996,Five Nations,England,Champions
+1996,Five Nations,England,Triple Crown
+1996,Five Nations,England,Calcutta Cup
+1996,Five Nations,England,Millennium Trophy
+1996,Five Nations,Scotland,Centenary Quaich
+1996,Five Nations,Ireland,Wooden Spoon
+1997,Five Nations,France,Champions
+1997,Five Nations,France,Grandslam
+1997,Five Nations,England,Triple Crown
+1997,Five Nations,England,Calcutta Cup
+1997,Five Nations,England,Millennium Trophy
+1997,Five Nations,Scotland,Centenary Quaich
+1997,Five Nations,Ireland,Wooden Spoon
+1998,Five Nations,France,Champions
+1998,Five Nations,France,Grandslam
+1998,Five Nations,England,Triple Crown
+1998,Five Nations,England,Calcutta Cup
+1998,Five Nations,England,Millennium Trophy
+1998,Five Nations,Scotland,Centenary Quaich
+1998,Five Nations,Ireland,Wooden Spoon
+1999,Five Nations,Scotland,Champions
+1999,Five Nations,Scotland,Centenary Quaich
+1999,Five Nations,England,Calcutta Cup
+1999,Five Nations,England,Millennium Trophy
+1999,Five Nations,France,Wooden Spoon
+2000,Six Nations,England,Champions
+2000,Six Nations,England,Millennium Trophy
+2000,Six Nations,Ireland,Centenary Quaich
+2000,Six Nations,Scotland,Calcutta Cup
+2000,Six Nations,Italy,Wooden Spoon
+2001,Six Nations,England,Champions
+2001,Six Nations,England,Calcutta Cup
+2001,Six Nations,Ireland,Millennium Trophy
+2001,Six Nations,Scotland,Centenary Quaich
+2001,Six Nations,Italy,Wooden Spoon
+2002,Six Nations,France,Champions
+2002,Six Nations,France,Grandslam
+2002,Six Nations,England,Triple Crown
+2002,Six Nations,England,Calcutta Cup
+2002,Six Nations,England,Millennium Trophy
+2002,Six Nations,Scotland,Centenary Quaich
+2002,Six Nations,Italy,Wooden Spoon
+2003,Six Nations,England,Champions
+2003,Six Nations,England,Grandslam
+2003,Six Nations,England,Triple Crown
+2003,Six Nations,England,Calcutta Cup
+2003,Six Nations,England,Millennium Trophy
+2003,Six Nations,Ireland,Centenary Quaich
+2003,Six Nations,Wales,Wooden Spoon
+2004,Six Nations,France,Champions
+2004,Six Nations,France,Grandslam
+2004,Six Nations,Ireland,Triple Crown
+2004,Six Nations,Ireland,Millennium Trophy
+2004,Six Nations,Ireland,Centenary Quaich
+2004,Six Nations,England,Calcutta Cup
+2004,Six Nations,Scotland,Wooden Spoon
+2005,Six Nations,Wales,Champions
+2005,Six Nations,Wales,Grandslam
+2005,Six Nations,Wales,Triple Crown
+2005,Six Nations,Ireland,Millennium Trophy
+2005,Six Nations,Ireland,Centenary Quaich
+2005,Six Nations,England,Calcutta Cup
+2005,Six Nations,Italy,Wooden Spoon
+2006,Six Nations,France,Champions
+2006,Six Nations,Ireland,Triple Crown
+2006,Six Nations,Ireland,Millennium Trophy
+2006,Six Nations,Ireland,Centenary Quaich
+2006,Six Nations,Scotland,Calcutta Cup
+2006,Six Nations,Italy,Wooden Spoon
+2007,Six Nations,France,Champions
+2007,Six Nations,France,Giuseppe Garibaldi Trophy
+2007,Six Nations,Ireland,Triple Crown
+2007,Six Nations,Ireland,Millennium Trophy
+2007,Six Nations,Ireland,Centenary Quaich
+2007,Six Nations,England,Calcutta Cup
+2007,Six Nations,Scotland,Wooden Spoon
+2008,Six Nations,Wales,Champions
+2008,Six Nations,Wales,Grandslam
+2008,Six Nations,Wales,Triple Crown
+2008,Six Nations,England,Millennium Trophy
+2008,Six Nations,France,Giuseppe Garibaldi Trophy
+2008,Six Nations,Ireland,Centenary Quaich
+2008,Six Nations,Scotland,Calcutta Cup
+2008,Six Nations,Italy,Wooden Spoon
+2009,Six Nations,Ireland,Champions
+2009,Six Nations,Ireland,Grandslam
+2009,Six Nations,Ireland,Triple Crown
+2009,Six Nations,Ireland,Millennium Trophy
+2009,Six Nations,Ireland,Centenary Quaich
+2009,Six Nations,England,Calcutta Cup
+2009,Six Nations,France,Giuseppe Garibaldi Trophy
+2009,Six Nations,Italy,Wooden Spoon
+2010,Six Nations,France,Champions
+2010,Six Nations,France,Grandslam
+2010,Six Nations,France,Giuseppe Garibaldi Trophy
+2010,Six Nations,Ireland,Millennium Trophy
+2010,Six Nations,Scotland,Centenary Quaich
+2010,Six Nations,Italy,Wooden Spoon
+2011,Six Nations,England,Champions
+2011,Six Nations,England,Calcutta Cup
+2011,Six Nations,Ireland,Millennium Trophy
+2011,Six Nations,Ireland,Centenary Quaich
+2011,Six Nations,Italy,Giuseppe Garibaldi Trophy
+2011,Six Nations,Italy,Wooden Spoon
+2012,Six Nations,Wales,Champions
+2012,Six Nations,Wales,Grandslam
+2012,Six Nations,Wales,Triple Crown
+2012,Six Nations,England,Calcutta Cup
+2012,Six Nations,England,Millennium Trophy
+2012,Six Nations,Ireland,Centenary Quaich
+2012,Six Nations,France,Giuseppe Garibaldi Trophy
+2012,Six Nations,Scotland,Wooden Spoon
+2013,Six Nations,Wales,Champions
+2013,Six Nations,England,Calcutta Cup
+2013,Six Nations,England,Millennium Trophy
+2013,Six Nations,Scotland,Centenary Quaich
+2013,Six Nations,Italy,Giuseppe Garibaldi Trophy
+2013,Six Nations,France,Wooden Spoon
+2014,Six Nations,Ireland,Champions
+2014,Six Nations,Ireland,Centenary Quaich
+2014,Six Nations,England,Triple Crown
+2014,Six Nations,England,Calcutta Cup
+2014,Six Nations,England,Millennium Trophy
+2014,Six Nations,France,Giuseppe Garibaldi Trophy
+2014,Six Nations,Italy,Wooden Spoon
+2015,Six Nations,Ireland,Champions
+2015,Six Nations,Ireland,Millennium Trophy
+2015,Six Nations,Ireland,Centenary Quaich
+2015,Six Nations,England,Calcutta Cup
+2015,Six Nations,France,Giuseppe Garibaldi Trophy
+2015,Six Nations,Scotland,Wooden Spoon
+2016,Six Nations,England,Champions
+2016,Six Nations,England,Grandslam
+2016,Six Nations,England,Triple Crown
+2016,Six Nations,England,Calcutta Cup
+2016,Six Nations,England,Millennium Trophy
+2016,Six Nations,Ireland,Centenary Quaich
+2016,Six Nations,France,Giuseppe Garibaldi Trophy
+2016,Six Nations,Italy,Wooden Spoon
+2017,Six Nations,England,Champions
+2017,Six Nations,England,Calcutta Cup
+2017,Six Nations,Ireland,Millennium Trophy
+2017,Six Nations,France,Giuseppe Garibaldi Trophy
+2017,Six Nations,Scotland,Centenary Quaich
+2017,Six Nations,Italy,Wooden Spoon
+2018,Six Nations,Ireland,Champions
+2018,Six Nations,Ireland,Grandslam
+2018,Six Nations,Ireland,Triple Crown
+2018,Six Nations,Ireland,Millennium Trophy
+2018,Six Nations,Ireland,Centenary Quaich
+2018,Six Nations,Scotland,Calcutta Cup
+2018,Six Nations,Scotland,Auld Alliance Trophy
+2018,Six Nations,France,Giuseppe Garibaldi Trophy
+2018,Six Nations,Italy,Wooden Spoon
+2019,Six Nations,Ireland,Centenary Quaich
+2019,Six Nations,Wales,Champions
+2019,Six Nations,Wales,Grandslam
+2019,Six Nations,Wales,Triple Crown
+2019,Six Nations,Wales,Doddie Weir Trophy
+2019,Six Nations,France,Auld Alliance Trophy
+2019,Six Nations,England,Millennium Trophy
+2019,Six Nations,Italy,Wooden Spoon
+2020,Six Nations,Ireland,Centenary Quaich
+2020,Six Nations,Scotland,Auld Alliance Trophy
+2020,Six Nations,Scotland,Doddie Weir Trophy
+2020,Six Nations,England,Champions
+2020,Six Nations,England,Triple Crown
+2020,Six Nations,England,Calcutta Cup
+2020,Six Nations,England,Millennium Trophy
+2020,Six Nations,Italy,Wooden Spoon

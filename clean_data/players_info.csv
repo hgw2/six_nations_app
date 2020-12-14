@@ -1,0 +1,225 @@
+player,club,position_detailed,born,height_in_metres,weight_in_kg,forward_or_back,country
+Dorian Aldegheri,Toulouse,Prop,"August 4, 1993",1.8,110,Forward,France
+Cyril Baille,Toulouse,Prop," September 15, 1993",1.83,113,Forward,France
+Demba Bamba,Brive,Prop,"March 17, 1998",1.85,119,Forward,France
+Camille Chat,Racing 92,Hooker,"December 18, 1995",1.83,99,Forward,France
+Anthony Etrillard,Touloun,Hooker,"March 21, 1993",1.8,108,Forward,France
+Jean-Baptiste Gros,Touloun,Prop,"May 29, 1999",1.95,123,Forward,France
+Mohamed Haouas,Montpellier,Prop,"June 9, 1994",1.85,118,Forward,France
+Julien Marchand,Toulouse,Hooker,"May 10, 1995",1.8,95,Forward,France
+Jefferson Poirot,Bordeaux,Prop,"November 1, 1992",1.8,100,Forward,France
+Cyril Cazeaux,Bordeaux,"Lock, Flanker"," February 10, 1995",1.97,95,Forward,France
+Killian Geraci,Grenoble,"Lock, Flanker","March 25, 1999",1.99,106,Forward,France
+Bernard Le Roux,Racing 92,Back-row,"June 4, 1989",1.91,100,Forward,France
+Boris Palu,Racing 92,"Lock, Flanker","February 4, 1996",1.93,109,Forward,France
+Romain Taofifenua,Touloun,Lock,"September 14, 1990",2.01,139,Forward,France
+Paul Willemse,Montpellier,Lock,"November 13, 1992",2.01,127,Forward,France
+Gregory Alldritt,La Rochelle,"Flanker, No. 8","March 23, 1997",1.91,111,Forward,France
+Dylan Cretin,Lyon,Flanker,"May 4, 1997",1.95,101,Forward,France
+Francois Cros,Toulouse,Back-row,"March 25, 1994",1.91,95,Forward,France
+Alexandre Fischer,Castres,Flanker,"January 19, 1998",1.88,103,Forward,France
+Sekou Macalou,Stade Francais,Back-row,"April 20, 1995",1.96,108,Forward,France
+Charles Ollivon,Touloun,Back-row,"May 11, 1993",1.96,108,Forward,France
+Selevasio Tolofua,Toulouse,"Flanker, No. 8","May 31, 1997",1.86,100,Forward,France
+Cameron Woki,Bordeaux,Flanker,"November 7, 1998",1.96,105,Forward,France
+Antoine Dupont,Toulouse,Scrum-half,"November 15, 1996",1.75,82,Back,France
+Maxime Lucu,Bordeaux,Scrum-half,"January 12, 1993",1.77,79,Back,France
+Baptiste Serin,Bordeaux,Scrum-half,"June 20, 1994",1.8,76,Back,France
+Louis Carbonel,Touloun,Fly-half,"February 4, 1999",1.77,88,Back,France
+Matthieu Jalibert,Bordeaux,Fly-half,"November 6, 1998",1.77,79,Back,France
+Romain Ntamack,Toulouse,Fly-half,"May 1, 1999",1.85,81,Back,France
+Gael Fickou,Stade Francais,Centre,"March 26, 1994",1.91,90,Back,France
+Julien Heriteau,Agen,Centre,"September 12, 1994",1.82,88,Back,France
+Virimi Vakatawa,Racing 92,Centre,"May 1, 1992",1.85,92,Back,France
+Arthur Vincent,Montpellier,Centre,"September 30, 1999",1.83,88,Back,France
+Gervais Cordin,Grenoble,"Fullback, Wing","December 10, 1998",1.72,73,Back,France
+Lester Etien,Stade Francais,Wing,"June 21, 1995",1.81,96,Back,France
+Gabriel Ngandebe,Montpellier,Wing,"March 30, 1997",1.73,74,Back,France
+Damian Penaud,Clermont,Wing,"September 25, 1996",1.85,92,Back,France
+Vincent Rattez,La Rochelle,Fullback,"March 24, 1992",1.8,75,Back,France
+Teddy Thomas,Racing 92,Wing,"September 18, 1993",1.85,90,Back,France
+Anthony Bouthier,Montpellier,"Fullback, Fly-half","June 19, 1992",1.82,86,Back,France
+Kylan Hamdaoui,Stade Francais,Fullback,"April 15, 1994",1.83,89,Back,France
+Thomas Ramos,Toulouse,Fullback,"July 23, 1995",1.78,80,Back,France
+Max Deegan,Leinster,"Flanker, No. 8","October 1, 1996",1.93,108,Forward,Ireland
+Caelan Doris,Leinster,No. 8,"April 2, 1998",2.01,108,Forward,Ireland
+Ultan Dillane,Connacht,Position,"November 9, 1993",1.98,115,Forward,Ireland
+Tadhg Furlong,Leinster,Prop,"November 14, 1992",1.83,122,Forward,Ireland
+Cian Healy,Leinster,Prop,"October 7, 1987",1.85,117,Forward,Ireland
+Dave Heffernan,Connacht,Hooker,"January 31, 1991",1.85,101,Forward,Ireland
+Iain Henderson,Ulster,Lock,"February 21, 1992",1.98,117,Forward,Ireland
+Rob Herring,Ulster,Hooker,"April 27, 1990",1.85,102,Forward,Ireland
+Ronan Kelleher,Leinster,Hooker,"January 24, 1998",1.84,104,Forward,Ireland
+Dave Kilcoyne,Munster,Prop,"December 14, 1988",1.83,111,Forward,Ireland
+Jack McGrath,Ulster,Prop,"October 11, 1989",1.85,118,Forward,Ireland
+Jack O’Donoghue,Munster,Back-row,"February 8, 1994",1.91,109,Forward,Ireland
+Peter O’Mahony,Munster,Back-row,"September 17, 1989",1.91,107,Forward,Ireland
+Tom O’Toole,Ulster,Prop,"September 23, 1998",1.85,113,Forward,Ireland
+Andrew Porter,Leinster,Prop,"January 16, 1996",1.83,125,Forward,Ireland
+James Ryan,Leinster,Lock,"July 24, 1996",2.03,107,Forward,Ireland
+CJ Stander,Munster,Back-row,"April 5, 1990",1.85,114,Forward,Ireland
+Devin Toner,Leinster,Lock,"June 29, 1986",2.11,127,Forward,Ireland
+Josh van der Flier,Leinster,Flanker,"April 25, 1993",1.8,107,Forward,Ireland
+Will Addison,Ulster,Utility back,"August 20, 1992",1.85,93,Back,Ireland
+Bundee Aki,Connacht,Centre,"April 7, 1990",1.78,92,Back,Ireland
+Billy Burns,Ulster,Fly-half,"June 13, 1994",1.85,86,Back,Ireland
+Ross Byrne,Leinster,Fly-half,"April 8, 1995",1.93,95,Back,Ireland
+Andrew Conway,Munster,"Fullback, Wing","July 11, 1991",1.8,90,Back,Ireland
+John Cooney,Ulster,Scrum-half,"May 1, 1990",1.78,87,Back,Ireland
+Keith Earls,Munster,Utility back,"October 2, 1987",1.78,87,Back,Ireland
+Chris Farrell,Munster,Centre,"March 16, 1993",1.91,110,Back,Ireland
+Robbie Henshaw,Leinster,"Fullback, Centre","June 12, 1993",1.93,105,Back,Ireland
+Dave Kearney,Leinster,"Fullback, Wing","June 19, 1989",1.8,90,Back,Ireland
+Jordan Larmour,Leinster,Wing,"June 10, 1997",1.78,87,Back,Ireland
+Luke McGrath,Leinster,Scrum-half," February 3, 1993",1.75,84,Back,Ireland
+Conor Murray,Munster,Scrum-half,"April 20, 1989",1.88,93,Back,Ireland
+Garry Ringrose,Leinster,Centre,"January 26, 1995",1.91,94,Back,Ireland
+Jonathan Sexton,Leinster,Fly-half,"July 11, 1985",1.88,90,Back,Ireland
+Jacob Stockdale,Ulster,Wing,"April 3, 1996",1.91,103,Back,Ireland
+Simon Berghan,Edinburgh,Prop,"December 7, 1990",1.91,127,Forward,Scotland
+Jamie Bhatti,Edinburgh,Prop,"September 8, 1993",1.83,113,Forward,Scotland
+Magnus Bradbury,Edinburgh,Back-row,"August 23, 1995",1.93,110,Forward,Scotland
+Fraser Brown,Glasgow,Hooker,"June 20, 1989",1.83,102,Forward,Scotland
+Alex Craig,Gloucester,Lock,"April 26, 1997",1.98,112,Forward,Scotland
+Luke Crosbie,Edinburgh,Flanker,"April 22, 1997",1.96,99,Forward,Scotland
+Scott Cummings,Glasgow,Lock,"December 3, 1996",1.98,107,Forward,Scotland
+Allan Dell,Edinburgh,Prop,"March 16, 1992",1.85,108,Forward,Scotland
+Cornell du Preez,Worcester,Back-row,"March 23, 1991",1.93,115,Forward,Scotland
+Zander Fagerson,Glasgow,Prop,"January 19, 1996",1.88,115,Forward,Scotland
+Grant Gilchrist,Edinburgh,Lock,"August 9, 1990",2.01,120,Forward,Scotland
+Tom Gordon,Glasgow,Flanker,"January 30, 1997",1.75,98,Forward,Scotland
+Jonny Gray,Glasgow,Lock,"March 14, 1994",1.98,119,Forward,Scotland
+Nick Haining,Edinburgh,Back-row,"September 1, 1990",1.93,114,Forward,Scotland
+Stuart McInally,Edinburgh,Hooker,"August 9, 1990",1.91,105,Forward,Scotland
+Willem Nel,Edinburgh,Prop,"April 30, 1986",1.8,120,Forward,Scotland
+Jamie Ritchie,Edinburgh,Back-row,"August 16, 1996",1.93,106,Forward,Scotland
+Rory Sutherland,Edinburgh,Prop,"August 24, 1992",1.83,118,Forward,Scotland
+Ben Toolis,Edinburgh,Lock,"March 31, 1992",2.01,116,Forward,Scotland
+George Turner,Glasgow,Hooker,"October 8, 1992",1.8,106,Forward,Scotland
+Hamish Watson,Edinburgh,Back-row,"October 15, 1991",1.85,102,Forward,Scotland
+Darcy Graham,Edinburgh,Wing,"June 21, 1997",1.75,84,Back,Scotland
+Chris Harris,Gloucester,Centre,"December 28, 1990",1.88,104,Back,Scotland
+Adam Hastings,Glasgow,Fly-half,"October 5, 1996",1.85,93,Back,Scotland
+Stuart Hogg,Glasgow,Fullback,"June 24, 1992",1.83,88,Back,Scotland
+George Horne,Glasgow,Scrum-half,"May 12, 1995",1.75,79,Back,Scotland
+Rory Hutchinson,Northampton,Centre,"January 29, 1996",1.83,85,Back,Scotland
+Sam Johnson,Glasgow,Centre,"June 19, 1993",1.8,86,Back,Scotland
+Huw Jones,Glasgow,Centre,"December 17, 1993",1.85,96,Back,Scotland
+Blair Kinghorn,Edinburgh,Fullback,"January 18, 1997",1.93,100,Back,Scotland
+Sean Maitland,Saracens,Wing,"September 14, 1988",1.88,97,Back,Scotland
+Byron McGuigan,Sale,Wing,"August 20, 1989",1.85,94,Back,Scotland
+Ali Price,Glasgow,Scrum-half,"May 12, 1993",1.78,80,Back,Scotland
+Henry Pyrgos,Edinburgh,Scrum-half,"July 9, 1989",1.78,80,Back,Scotland
+Finn Russell,Racing 92,Fly-half,"September 23, 1992",1.83,87,Back,Scotland
+Matt Scott,Edinburgh,Centre,"September 30, 1990",1.85,101,Back,Scotland
+Kyle Steyn,Glasgow,"Wing, Centre","January 29, 1994",1.87,95,Back,Scotland
+Ratu Tagive,Glasgow,Wing,"April 8, 1991",1.95,102,Back,Scotland
+Rhys Carre,Cardiff Blues,Prop,"February 8, 1998",1.88,133,Forward,Wales
+Rob Evans,Scarlets,Prop,"April 14, 1992",1.88,118,Forward,Wales
+Wyn Jones,Scarlets,Prop,"February 26, 1992",1.83,114,Forward,Wales
+Elliot Dee,Gwent Dragons,Hooker,"March 7, 1994",1.83,104,Forward,Wales
+Ryan Elias,Scarlets,Hooker,"January 7, 1995",1.88,110,Forward,Wales
+Ken Owens,Scarlets,Hooker,"January 3, 1987",1.85,112,Forward,Wales
+Leon Brown,Gwent Dragons,Prop,"October 26, 1996",1.88,112,Forward,Wales
+WillGriff John,Sale,Prop,"December 4, 1992",1.91,127,Forward,Wales
+Dillon Lewis,Cardiff Blues,Prop,"January 4, 1996",1.83,118,Forward,Wales
+Jake Ball,Scarlets,Lock,"June 21, 1991",2.01,121,Forward,Wales
+Adam Beard,Ospreys,Lock,"January 7, 1996",2.03,117,Forward,Wales
+Seb Davies,Cardiff Blues,Lock,"May 17, 1996",1.98,116,Forward,Wales
+Alun Wyn Jones,Ospreys,Lock,"September 19, 1985",1.98,122,Forward,Wales
+Will Rowlands,Wasps,Lock,"September 19, 1991",1.98,117,Forward,Wales
+Cory Hill,Gwent Dragons,Lock,"February 10, 1992",1.96,111,Forward,Wales
+Aaron Shingler,Scarlets,Back-row,"August 7, 1987",1.96,106,Forward,Wales
+Aaron Wainwright,Gwent Dragons,Back-row,"September 25, 1997",1.91,102,Forward,Wales
+Taulupe Faletau,Bath,Back-row,"November 12, 1990",1.88,110,Forward,Wales
+Ross Moriarty,Gwent Dragons,Back-row,"April 18, 1994",1.88,103,Forward,Wales
+Josh Navidi,Cardiff Blues,Flanker,"December 30, 1990",1.85,95,Forward,Wales
+Justin Tipuric,Ospreys,Back-row,"August 6, 1989",1.88,100,Forward,Wales
+Gareth Davies,Scarlets,Scrum-half,"August 18, 1990",1.78,85,Back,Wales
+Rhys Webb,Touloun,Scrum-half,"December 9, 1988",1.83,88,Back,Wales
+Tomos Williams,Cardiff Blues,Scrum-half,"January 1, 1995",1.78,77,Back,Wales
+Dan Biggar,Northampton,Fly-half,"October 16, 1989",1.88,90,Back,Wales
+Owen Williams,Gloucester,Fly-half,"February 27, 1992",1.83,92,Back,Wales
+Jarrod Evans,Cardiff Blues,Fly-half,"July 25, 1996",1.78,86,Back,Wales
+Hadleigh Parkes,Scarlets,Centre,"October 5, 1987",1.88,101,Back,Wales
+Nick Tompkins,Saracens,Centre,"February 16, 1995",1.83,93,Back,Wales
+Owen Watkin,Ospreys,Centre,"October 12, 1996",1.88,112,Back,Wales
+George North,Ospreys,Wing,"April 13, 1992",1.93,105,Back,Wales
+Josh Adams,Cardiff Blues,"Fullback, Wing","April 21, 1995",1.88,94,Back,Wales
+Owen Lane,Cardiff Blues,"Wing, Centre","December 20, 1997",1.85,100,Back,Wales
+Johnny McNicholl,Scarlets,"Fullback, Wing","September 24, 1990",1.85,96,Back,Wales
+Louis Rees-Zammit,Gloucester,Wing,"February 2, 2001",1.91,88,Back,Wales
+Jonah Holmes,Leicester,Wing,"July 24, 1992",1.83,91,Back,Wales
+Leigh Halfpenny,Scarlets,Fullback,"December 22, 1988",1.78,81,Back,Wales
+Liam Williams,Saracens,"Fullback, Wing","April 9, 1991",1.88,85,Back,Wales
+Luke Cowan-Dickie,Exeter Chiefs,Hooker,"June 20, 1993",1.83,112,Forward,England
+Tom Curry,Sale,Flanker,"June 15, 1998",1.85,110,Forward,England
+Tom Dunn,Bath,Hooker,"November 12, 1992",1.88,105,Forward,England
+Ben Earl,Saracens,Back-row,"January 7, 1998",1.88,102,Forward,England
+Charlie Ewels,Bath,Lock,"June 29, 1995",1.98,108,Forward,England
+Ellis Genge,Leicester,Prop,"February 16, 1995",1.85,117,Forward,England
+Jamie George,Saracens,Hooker,"October 20, 1990",1.8,108,Forward,England
+Ted Hill,Worcester,Flanker,"March 26, 1999",1.96,110,Forward,England
+Maro Itoje,Saracens,"Lock, Back-row","October 28, 1994",1.98,110,Forward,England
+George Kruis,Saracens,Lock,"February 22, 1990",1.98,117,Forward,England
+Joe Launchbury,Wasps,Lock,"April 12, 1991",1.98,115,Forward,England
+Courtney Lawes,Northampton,Lock,"February 23, 1989",2.01,113,Forward,England
+Lewis Ludlam,Northampton,Back-row,"December 8, 1995",1.9,94,Forward,England
+Joe Marler,Harlequins,Prop,"July 7, 1990",1.83,113,Forward,England
+Alex Moon,Northampton,Lock,"September 6, 1996",2.03,122,Forward,England
+Kyle Sinckler,Harlequins,Prop,"March 30, 1993",1.83,113,Forward,England
+Will Stuart,Bath,Prop,"July 12, 1996",1.89,124,Forward,England
+Sam Underhill,Bath,Back-row,"July 22, 1996",1.86,103,Forward,England
+Mako Vunipola,Saracens,Prop,"January 14, 1991",1.82,118,Forward,England
+Harry Williams,Exeter Chiefs,Prop,"October 1, 1991",1.91,132,Forward,England
+Elliot Daly,Saracens,Utility Back,"October 1, 1992",1.84,92,Back,England
+Ollie Devoto,Exeter Chiefs,Centre,"September 22, 1993",1.93,98,Back,England
+Fraser Dingwall,Northampton,Centre,"April 7, 1999",1.88,86,Back,England
+Owen Farrell,Saracens,Fly-half,"September 24, 1991",1.88,90,Back,England
+George Ford,Leicester,Fly-half,"March 16, 1993",1.75,80,Back,England
+George Furbank,Northampton,Fullback,"October 17, 1996",1.82,92,Back,England
+Willi Heinz,Gloucester,Scrum-half,"November 24, 1986",1.82,89,Back,England
+Jonathan Joseph,Bath,Centre,"May 21, 1991",1.83,91,Back,England
+Jonny May,Leicester,Wing,"April 1, 1990",1.86,92,Back,England
+Ollie Thorley,Gloucester,Wing,"September 11, 1996",1.85,99,Back,England
+Manu Tuilagi,Leicester,Centre,"May 18, 1991",1.85,114,Back,England
+Jacob Umaga,Wasps,Fly-half,"July 8, 1998",1.82,91,Back,England
+Anthony Watson,Bath,"Fullback, Wing","February 26, 1994",1.88,95,Back,England
+Ben Youngs,Leicester,Scrum-half,"September 5, 1989",1.78,92,Back,England
+Alex Mitchell,Northampton,Scrum-half,"May 25, 1997",1.77,84,Back,England
+Josh Hodge,England Under 20's,Fullback,"May 23, 2000",1.83,82,Back,England
+Pietro Ceccarelli,Edinburgh,Prop,"February 16, 1992",1.84,118,Forward,Italy
+Danilo Fischetti,Zebre,Prop,"January 26, 1998",1.81,108,Forward,Italy
+Andrea Lovotti,Zebre,Prop,"July 28, 1989",1.83,111,Forward,Italy
+Marco Riccioni,Benetton,Prop,"October 19, 1997",1.86,126,Forward,Italy
+Giosuè Zilocchi,Zebre,Prop,"January 15, 1997",1.86,106,Forward,Italy
+Luca Bigi,Zebre,Hooker,"April 19, 1991",1.8,105,Forward,Italy
+Oliviero Fabiani,Zebre,Hooker,"July 13, 1990",1.8,98,Forward,Italy
+Federico Zani,Benetton,Prop,"April 9, 1989",1.75,115,Forward,Italy
+Dean Budd,Benetton,Lock,"July 31, 1986",1.98,108,Forward,Italy
+Niccolò Cannone,Benetton,"Prop, Lock","May 17, 1998",1.96,124,Forward,Italy
+Federico Ruzza,Benetton,Lock,"August 4, 1994",1.98,108,Forward,Italy
+David Sisi,Zebre,Lock,"February 5, 1993",1.96,120,Forward,Italy
+Alessandro Zanni,Benetton,Back-row,"January 31, 1984",1.93,107,Forward,Italy
+Marco Lazzaroni,Benetton,Back-row,"May 18, 1995",1.91,115,Forward,Italy
+Giovanni Licata,Zebre,Back-row,"February 18, 1997",1.95,106,Forward,Italy
+Johan Meyer,Zebre,Flanker,"February 26, 1993",1.93,104,Forward,Italy
+Sebastian Negri,Benetton,Lock,"June 30, 1994",1.94,110,Forward,Italy
+Jake Polledri,Gloucester,Back-row,"November 8, 1995",1.88,106,Forward,Italy
+Abraham Steyn,Benetton,Back-row,"May 2, 1992",1.94,110,Forward,Italy
+Callum Braley,Gloucester,Scrum-half,"March 20, 1994",1.78,83,Back,Italy
+Guglielmo Palazzani,Zebre,Scrum-half,"April 11, 1991",1.77,80,Back,Italy
+Marcello Violi,Zebre,Scrum-half,"October 11, 1993",1.78,80,Back,Italy
+Tommaso Allan,Benetton,Fly-half,"April 26, 1993",1.83,87,Back,Italy
+Carlo Canna,Zebre,Fly-half,"August 25, 1992",1.9,93,Back,Italy
+Giulio Bisegni,Zebre,Centre,"April 4, 1992",1.8,83,Back,Italy
+Tommaso Boni,Zebre,Centre,"January 15, 1993",1.87,100,Back,Italy
+Luca Morisi,Benetton,Centre,"February 22, 1991",1.83,95,Back,Italy
+Alberto Sgarbi,Benetton,Centre,"November 26, 1986",1.92,101,Back,Italy
+Mattia Bellini,Zebre,Utility Back,"February 8, 1994",1.93,93,Back,Italy
+Tommaso Benvenuti,Benetton,Centre,"December 12, 1990",1.85,93,Back,Italy
+Michelangelo Biondelli,Zebre,"Fullback, Centre, Fly-half","May 15, 1998",1.84,90,Back,Italy
+Jayden Hayward,Benetton,Fullback,"February 11, 1987",1.84,90,Back,Italy
+Matteo Minozzi,Wasps,Fullback,"June 4, 1996",1.75,76,Back,Italy
+Edoardo Padovani,Zebre,Fullback,"May 15, 1993",1.88,90,Back,Italy
+Leonardo Sarto,Benetton,Wing,"January 15, 1992",1.93,91,Back,Italy

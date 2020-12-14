@@ -1,0 +1,5 @@
+"0"," trophies_full_long <- trophies_full_long %>% "
+"0","  mutate(trophy = factor(trophy, levels = c(""Wooden Spoon"", ""Doddie Weir Trophy"",""Auld Alliance Trophy"",""Giuseppe Garibaldi Trophy"", ""Centenary Quaich"", 	"
+"0","""Millennium Trophy"", ""Calcutta Cup"", ""Triple Crown"", ""Grand Slam"", ""Champions"")))"
+"0","                "
+"0",""

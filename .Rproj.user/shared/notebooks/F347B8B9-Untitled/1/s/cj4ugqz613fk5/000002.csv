@@ -1,0 +1,6 @@
+"0","teams_longer <- teams %>% "
+"0","  pivot_longer(cols = points:metres_per_carry,"
+"0","               values_to = ""total"", "
+"0","               names_to = ""variable"") %>% "
+"0","  mutate(variable = str_replace_all(variable, ""_"", "" "")) %>% "
+"0","  mutate(variable = str_to_title(variable))"

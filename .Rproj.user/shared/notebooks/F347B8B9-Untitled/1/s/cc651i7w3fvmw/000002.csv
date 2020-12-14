@@ -1,0 +1,7 @@
+"0","teams_longer %>% "
+"0","  filter(variable %in% c(""Tackles Made"", ""Missed Tackles"")) %>% "
+"0","  ggplot()+"
+"0","  aes(x = reorder(country, -total), y = total, fill = variable) +"
+"0","  geom_col(position = ""dodge"") + "
+"0","  geom_text(aes(label= total), position = position_dodge(width = 1), vjust=-0.3)+"
+"0","  theme_minimal()"

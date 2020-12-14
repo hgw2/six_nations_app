@@ -1,0 +1,19 @@
+"0"," trophies_full_long %>% 
+  distinct(trophy) %>% 
+  pull()
+"
+"1","[1]"
+"1"," ""Champions""                "
+"1"," ""Triple Crown""             "
+"1"," ""Calcutta Cup""             "
+"1"," ""Wooden Spoon""             "
+"1"," ""Grandslam""                "
+"1","
+"
+"1","[6]"
+"1"," ""Millennium Trophy""        "
+"1"," ""Centenary Quaich""         "
+"1"," ""Giuseppe Garibaldi Trophy"""
+"1"," ""Auld Alliance Trophy""     "
+"1","
+"
