@@ -1,5 +1,5 @@
 library(here)
-source(here("code.R"))
+source(here("global.R"))
 
 ui <- fluidPage(
   dashboardPage(
@@ -135,7 +135,7 @@ ui <- fluidPage(
           ),
           fluidRow(
             column(
-              6,
+              7,
               box(
                 title = "Squad",
                 width = 12,
@@ -144,21 +144,24 @@ ui <- fluidPage(
               )
             ),
             column(
-              6,
+              5,
+              fluidRow(
               box(
                 title = "Total Scored",
                 width = 12,
                 plotOutput("scores")
-              ),
+              )),
+              fluidRow(
               box(
                 title = "Squad Weight",
                 width = 12,
                 plotOutput("weight")
-              ),
+              )),
+              fluidRow(
               box(
                 title = "Clubs",
                 width = 12,
-                plotOutput("club")
+                plotOutput("club"))
               )
             )
           )
